@@ -41,7 +41,7 @@ MIT License.
 
 ## References
 
-[1] <https://blog.sucuri.net/2015/10/brute-force-amplification-attacks-against-wordpress-xmlrpc.html>
-[2] <https://en-gb.wordpress.org/plugins/wp-fail2ban/>
-[3] <https://www.fail2ban.org>
-[4] <https://hub.docker.com/_/wordpress/>
+1. <https://blog.sucuri.net/2015/10/brute-force-amplification-attacks-against-wordpress-xmlrpc.html>
+2. <https://en-gb.wordpress.org/plugins/wp-fail2ban/>
+3. <https://www.fail2ban.org>
+4. <https://hub.docker.com/_/wordpress/>
