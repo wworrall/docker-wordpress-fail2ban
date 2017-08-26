@@ -12,7 +12,7 @@ overloading a Wordpress site server and/or database server.
 These brute force attacks often exploit the xmlrpc.php Wordpress file which
 allows thousands of username/password combination attempts in a single request
 to the server. Such attacks can therefore go undetected when analysing the
-apache error logs [1]. The Wordpress plugin WP fail2ban By Charles Lecklider [2]
+Apache error logs [1]. The Wordpress plugin WP Fail2ban By Charles Lecklider [2]
 logs all failed login attempts whether made via login.php or xmlrpc.php. This
 plugin combined with a server installation of Fail2ban [3] offers excellent
 mitigation of these attacks by temporarily blocking the IP addresses from which
